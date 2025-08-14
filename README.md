@@ -103,20 +103,20 @@ En caso de ejecutar el comando `npm install` en la terminal de Visual Studio Cod
 
 Lo que deberemos realizar es ir a nuestra configuración de Windows y escribir en el buscador `Configuración de desarrollador`
 
-<img src="./public/config1.PNG"
+<img src="./assets/config1.PNG"
          alt="Imagen de interfaz de configuracion">
 
-<img src="./public/config2.PNG"
+<img src="./assets/config2.PNG"
          alt="Imagen del buscador de configuracion con el valor Configuracion de desarrollador">
 
 Una vez dentro de la configuración de desarrollador, deberemos activar la opción de `Modo para desarrolladores` y habilitar la directiva que habilita todos los scripts para PowerShell.
 
 <figure>
-    <img src="./public/config3.PNG"
+    <img src="./assets/config3.PNG"
          alt="Imagen de modo para desarrolladores activada">
 </figure>
 <figure>
-    <img src="./public/config4.PNG" alt="Imagen de cambiar directiva de powershell">
+    <img src="./assets/config4.PNG" alt="Imagen de cambiar directiva de powershell">
 </figure>
 
 Una vez esas dos opciones estén habilitadas, deberemos hacer clic en el botón de `Aplicar` y, ya con esto, podremos utilizar el comando `npm install`
