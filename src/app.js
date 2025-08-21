@@ -5,7 +5,7 @@ import { prompt } from './prompt.js'
 
 // Read an string
 let name = prompt('Write your name: ')
-console.log(`Hello ${name}, welcome to the Computer Programming Course 2024 | UTN - FRRQ`)
+console.log(`Hello ${name}, welcome to the Computer Programming Course 2025 | UTN - FRRQ`)
 
 // Read an integer
 let edad = parseInt(prompt('How old are you?: '))
